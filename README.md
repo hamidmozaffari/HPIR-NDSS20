@@ -1,4 +1,4 @@
-# HPIR
+# Heterogeneous Private Information Retrieval (HPIR:NDSS2020)
 A repository for Heterogeneous Private Information Retrieval. HPIR allows a client to download an element from an untrusted servers in with heterogeneous communication/computation overhead. HPIR was introduced in [paper](https://people.cs.umass.edu/~amir/papers/NDSS20-HPIR.pdf) by [Hamid Mozaffari](https://github.com/lordhamiss) and Amir Houmansadr. 
 
 # Compiling HPIR
